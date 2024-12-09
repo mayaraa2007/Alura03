@@ -1,23 +1,23 @@
 criaCartao(
-    'Pop',
-    'Qual é a indústria da musica?',
-    'A Taylor Swift'
+    '01',
+    'Quando Corinthians foi fundado?',
+    '1 de setembro de 1910'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual o primeiro grupo global pop do mundo?',
-    'O Now United'
+    '02',
+    'Qual o estadio do Corinthians?',
+    'A NeoQuímica Arena'
 )
 
 criaCartao(
-    'Série',
-    'Quantas temporadas tem Greys Anatomy Atualmente?',
-    '21'
+    '03',
+    'Quantas vezes o Corinthians conquistou o Campeonato Brasileiro?',
+    '7'
 )
 
 criaCartao(
-    'Taylor Swift',
-    'O que foi a "The Eras Tour"?',
-    'The Eras Tour foi a maior turne da historia'
+    '04',
+    'Em que ano o Corinthians venceu a Copa da Libertadores da América pela primeira vez?',
+    '2012'
 )
